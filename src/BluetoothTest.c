@@ -4,7 +4,7 @@
  Author      : Mark Meadows
  Version     :
  Copyright   : Copyright (c) 2019 Mark MEadows
- Description : Bluetooth test in C, Ansi-style
+ Description : Bluetooth test 1 in C, Ansi-style
  ============================================================================
  */
 
